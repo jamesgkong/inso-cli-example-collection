@@ -1,0 +1,15 @@
+type: environment.insomnia.rest/5.0
+name: example-global-environment
+meta:
+  id: wrk_67c48ee430494368ad6064eee37872a7
+  created: 1747044761689
+  modified: 1747044761689
+environments:
+  name: Base Environment
+  meta:
+    id: env_082ff8ddcc30b447ee87a71a627cbc0019d4c310
+    created: 1747044761700
+    modified: 1747044788084
+    isPrivate: false
+  data:
+    host: incorrect-domain.something
